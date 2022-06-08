@@ -1,0 +1,7 @@
+[27-Jan-2022 02:26:41 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'pylearnm_root'@'localhost' (using password: YES) in /home/pylearnm/public_html/config.php on line 11
+[27-Jan-2022 02:26:41 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'pylearnm_root'@'localhost' (using password: YES) in /home/pylearnm/public_html/config.php on line 26
+[27-Jan-2022 02:26:41 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/pylearnm/public_html/config.php on line 38
+[27-Jan-2022 02:30:00 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'pylearnm_root'@'localhost' to database 'pylearn_database' in /home/pylearnm/public_html/config.php on line 11
+[27-Jan-2022 02:35:26 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'pylearnm_root'@'localhost' to database 'pylearn_database' in /home/pylearnm/public_html/config.php on line 11
+[27-Jan-2022 02:36:08 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'pylearnm_root'@'localhost' to database 'pylearn_database' in /home/pylearnm/public_html/config.php on line 11
+[27-Jan-2022 02:36:25 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'pylearnm_root'@'localhost' to database 'pylearn_database' in /home/pylearnm/public_html/config.php on line 11
